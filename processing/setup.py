@@ -43,7 +43,7 @@ setuptools.setup(
         "oletools>=0.60.1, <0.61",
         "cryptography>=41.0.4, <42.0.0",
         "hyperscan>=0.2.0, <0.7",
-        "yara-python>=4.2.0, <4.4",
+        "yara-python==4.0.4, <4.4",
         "roach>=1.0, <1.1",
         "suricatactl==0.0.1.dev3",
         "dpkt>=1.9.7.2, <1.10"
